@@ -1,12 +1,12 @@
 def word_count(words):
     return len(words)
-    print(f"Количество слов в тексте: {len(words)}")
 
 
-def long_words(text):
+
+def long_words(words):
     one_word = ""
-    for word in text:
-        len(text) > len(one_word)
+    for word in words:
+        len(words) > len(one_word)
         one_word = word
 
 
